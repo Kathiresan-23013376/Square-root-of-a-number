@@ -29,6 +29,8 @@ inp=int(input())
 print("Square root of the number:",newton_method(inp))
 ```
 ## Output:
+![image](https://github.com/Kathiresan-23013376/Square-root-of-a-number/assets/150008375/c2c3b041-968b-4dec-8cee-0fb50c527827)
+
 ![image](https://github.com/Kathiresan-23013376/Square-root-of-a-number/assets/150008375/26d01c3b-6b23-4e5a-9f64-0f17d54b14d1)
 
 ## Result:
